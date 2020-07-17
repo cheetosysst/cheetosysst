@@ -1,9 +1,9 @@
 ### 🤔 簡介
 - 本名: 張 辰
-- 其他稱呼: Thect、Cheetosysst
-- 興趣: 寫程式(很顯然的)、寫歌、繪圖、翻譯
-- 學歷: 成功高中、逢甲大學資工系(在學)
-- 專長: Python、NodeJS、翻譯、撰寫文件
+- 其他稱呼: **Thect**、**Cheetosysst**
+- 興趣: 寫程式 (很顯然的)、寫歌、繪圖、翻譯
+- 學歷: 成功高中、**逢甲大學資工系** (在學)
+- 專長: **Python**、**NodeJS**、翻譯、撰寫文件
 
 ### 🛠 作品
 - [Demoji](https://github.com/cheetosysst/demoji): Linux 適用，dmenu 表情符號選擇器。
