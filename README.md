@@ -1,4 +1,5 @@
-[English](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
+#### Other Language
+[English version](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
 
 ### 🤔 簡介
 - 本名: 張 辰
