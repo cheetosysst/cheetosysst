@@ -1,4 +1,4 @@
-#### Other Language
+#### 其他語言
 [English version](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
 
 ### 🤔 簡介
