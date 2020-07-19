@@ -1,3 +1,5 @@
+[English](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
+
 ### 🤔 簡介
 - 本名: 張 辰
 - 其他稱呼: **Thect**、**Cheetosysst**
@@ -6,7 +8,7 @@
 - 專長: **Python**、**NodeJS**、翻譯、撰寫文件
 
 ### 🛠 作品
-- [Demoji](https://github.com/cheetosysst/demoji): Linux 適用，dmenu 表情符號選擇器。
+- [Demoji](https://github.com/cheetosysst/demoji): 適用於 i3, bspwm 等 tiling WM 環境，使用 dmenu 建立的 emoji 選擇器。
 - [ThectBlog](https://github.com/cheetosysst/ThectBlog): 開發中的高自訂性部落格前後端。
 - [FDep](https://github.com/cheetosysst/FDep): 開發中的快速小型專案環境部屬工具。
 
