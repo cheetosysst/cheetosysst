@@ -2,6 +2,8 @@
 [English version](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
 
 ### 🤔 簡介
+[![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://shields.io)
+[![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)]()
 - 本名: 張 辰
 - 其他稱呼: **Thect**、**Cheetosysst**
 - 興趣: 寫程式 (很顯然的)、寫歌、繪圖、翻譯
