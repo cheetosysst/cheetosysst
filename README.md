@@ -19,7 +19,7 @@
 - [FDep](https://github.com/cheetosysst/FDep): 開發中的快速小型專案環境部屬工具。
 
 ### 🔨 常用語言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎨 其他領域
 - [🎵音樂製作](https://www.youtube.com/thect): 非專業音樂人，閒暇之餘做的幾首曲子。
