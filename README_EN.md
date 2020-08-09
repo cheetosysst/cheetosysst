@@ -8,7 +8,7 @@
 - 專長: **Python**, **NodeJS**, Translation, Document Writing
 
 ### 🔗 Record
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&show_icons=true&theme=dracula&count_private=true)  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&count_private=true&show_icons=true&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=61892f&hide_title=true&include_all_commits=true)   
 
 ### 🛠 Repo
 - [Demoji](https://github.com/cheetosysst/demoji): An emoji picker built for tiling window mangers like i3 and bspwm.
