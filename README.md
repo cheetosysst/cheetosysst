@@ -14,9 +14,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&count_private=true&show_icons=true&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=61892f&hide_title=true&include_all_commits=true)  
 
 ### 🛠 作品
-- [Demoji](https://github.com/cheetosysst/demoji): 適用於 i3, bspwm 等 tiling WM 環境，使用 dmenu 建立的 emoji 選擇器。
-- [ThectBlog](https://github.com/cheetosysst/ThectBlog): 開發中的高自訂性部落格前後端。
-- [FDep](https://github.com/cheetosysst/FDep): 開發中的快速小型專案環境部屬工具。
+- [ThectBlog](https://github.com/cheetosysst/ThectBlog): 
+開發中的高自訂性部落格前後端。
+- [Demoji](https://github.com/cheetosysst/demoji):
+適用於 i3, bspwm 等 tiling WM 環境，使用 dmenu 建立的 emoji 選擇器。
+- [FDep](https://github.com/cheetosysst/demoji):
+開發中的快速小型專案環境部屬工具。
 
 ### 🔨 常用語言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=86c232)](https://github.com/anuraghazra/github-readme-stats)
