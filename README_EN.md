@@ -16,7 +16,7 @@
 - [FDep](https://github.com/cheetosysst/FDep): FastDeploy is a python base project file deploying tool for small projects.
 
 ### 🔨 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=86c232)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎨 Other
 - [🎵音樂製作](https://www.youtube.com/thect): I'm far from professional, just a side hobby.
