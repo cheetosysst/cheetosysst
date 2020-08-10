@@ -1,6 +1,6 @@
 ### 🤔 About
-[![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://shields.io)
-[![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)]()
+[![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://github.com/cheetosysst)
+[![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)
 - Name: 張 辰 (Chang, Chen)
 - Other name: **Thect**、**Cheetosysst**
 - Interests: Programming (Obviously), Song writing, Drawing, Translation
