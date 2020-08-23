@@ -18,7 +18,7 @@
 開發中的高自訂性部落格前後端。
 - [Demoji](https://github.com/cheetosysst/demoji):
 適用於 i3, bspwm 等 tiling WM 環境，使用 dmenu 建立的 emoji 選擇器。
-- [FDep](https://github.com/cheetosysst/demoji):
+- [FDep](https://github.com/cheetosysst/FDep):
 開發中的快速小型專案環境部屬工具。
 
 ### 🔨 常用語言
