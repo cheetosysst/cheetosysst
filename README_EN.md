@@ -1,7 +1,8 @@
 ### 🤔 About
-[![Librepay](https://img.shields.io/liberapay/patrons/thect?style=flat-square)](https://liberapay.com/Thect/donate)
+[![Patreon](https://img.shields.io/endpoint.svg?url=https://patreonbadge.herokuapp.com/thect/pledges&style=flat-square)](https://www.patreon.com/thect)
+<img src="https://img.shields.io/liberapay/patrons/Thect.svg?logo=liberapay&style=flat-square">
 [![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://github.com/cheetosysst)
-[![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)
+[![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)  
 - Name: 張 辰 (Chang, Chen)
 - Other name: **Thect**、**Cheetosysst**
 - Interests: Programming (Obviously), Song writing, Drawing, Translation
