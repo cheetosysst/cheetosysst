@@ -2,9 +2,11 @@
 [English version](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
 
 ### 🤔 簡介
+<noscript><a href="https://liberapay.com/Thect/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
 [![Librepay](https://img.shields.io/liberapay/patrons/thect?style=flat-square)](https://liberapay.com/Thect/donate)
 [![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://github.com/cheetosysst)
-[![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)
+[![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)  
+
 - 本名: 張 辰
 - 其他稱呼: **Thect**、**Cheetosysst**
 - 興趣: 寫程式 (很顯然的)、寫歌、繪圖、翻譯
