@@ -2,8 +2,8 @@
 [English version](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
 
 ### 🤔 簡介
-<noscript><a href="https://liberapay.com/Thect/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
-[![Librepay](https://img.shields.io/liberapay/patrons/thect?style=flat-square)](https://liberapay.com/Thect/donate)
+[![Patreon](https://img.shields.io/endpoint.svg?url=https://patreonbadge.herokuapp.com/thect/pledges&style=flat-square)](https://www.patreon.com/thect)
+<img src="https://img.shields.io/liberapay/patrons/Thect.svg?logo=liberapay&style=flat-square">
 [![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://github.com/cheetosysst)
 [![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)  
 
