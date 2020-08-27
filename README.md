@@ -2,6 +2,7 @@
 [English version](https://github.com/cheetosysst/cheetosysst/blob/master/README_EN.md)
 
 ### 🤔 簡介
+[![Librepay](https://img.shields.io/liberapay/patrons/thect?style=flat-square)](https://liberapay.com/Thect/donate)
 [![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://github.com/cheetosysst)
 [![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)
 - 本名: 張 辰
