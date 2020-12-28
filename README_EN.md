@@ -1,5 +1,4 @@
 ### 🤔 About
-[![Patreon](https://img.shields.io/endpoint.svg?url=https://patreonbadge.herokuapp.com/thect/pledges&style=flat-square)](https://www.patreon.com/thect)
 <a href="https://liberapay.com/Thect/donate"><img src="https://img.shields.io/liberapay/patrons/Thect.svg?logo=liberapay&style=flat-square"></a>
 [![Followers](https://img.shields.io/github/followers/cheetosysst?style=flat-square)](https://github.com/cheetosysst)
 [![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)  
