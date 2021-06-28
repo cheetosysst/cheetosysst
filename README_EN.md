@@ -14,10 +14,8 @@
 ### 🛠 Repo
 - [Demoji](https://github.com/cheetosysst/demoji):
 An emoji picker built for tiling window mangers like i3 and bspwm.
-- [ThectBlog](https://github.com/cheetosysst/ThectBlog):
-A highly customizable MVC blog server.
-- [FDep](https://github.com/cheetosysst/FDep):
-FastDeploy is a python base project file deploying tool for small projects.
+- [EMU6502](https://github.com/cheetosysst/demoji):
+Attempt to write a 6502 emulator with python.
 
 ### 🔨 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=86c232)](https://github.com/anuraghazra/github-readme-stats)
