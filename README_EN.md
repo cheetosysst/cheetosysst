@@ -14,7 +14,7 @@
 ### 🛠 Repo
 - [Demoji](https://github.com/cheetosysst/demoji):
 An emoji picker built for tiling window mangers like i3 and bspwm.
-- [EMU6502](https://github.com/cheetosysst/demoji):
+- [EMU6502](https://github.com/cheetosysst/EMU6502):
 Attempt to write a 6502 emulator with python.
 
 ### 🔨 Languages
