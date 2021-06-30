@@ -18,7 +18,7 @@
 ### 🛠 作品
 - [Demoji](https://github.com/cheetosysst/demoji):
 適用於 i3, bspwm 等 tiling WM 環境，使用 dmenu 建立的 emoji 選擇器。
-- [EMU6502](https://github.com/cheetosysst/demoji):
+- [EMU6502](https://github.com/cheetosysst/EMU6502):
 嘗試使用 Python 寫 6502 模擬器
 
 ### 🔨 常用語言
