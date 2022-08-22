@@ -25,7 +25,6 @@ Attempt to write a 6502 emulator with python.
 - [🚀火箭科普](https://hackmd.io/@Thect): I'm a rocket and astronomy enthusiast. I translate and organize English articles and rewrite them, to introduce these knowledge to more people.
 
 ### 📬 Contacts
-- Email: [thect@pm.me](mailto:thect@pm.me) (I will reply!)
 - Twitter: [@Thect_36](https://twitter.com/Thect_36) (Mostly for non-programming stuff)
 - IPoAC: [Wikipedia](https://zh.wikipedia.org/wiki/%E4%BB%A5%E9%B8%9F%E7%B1%BB%E4%B8%BA%E8%BD%BD%E4%BD%93%E7%9A%84%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE) Please release pigeon on top of Qixingshan during northeast monsoon season. This method is known for 55% of average packet loss rate, so please send multiple doves at the same time, and use bigger packet media, for example a SD card. I'll try my best to catch it!
 
