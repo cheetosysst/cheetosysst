@@ -29,6 +29,5 @@
 - [🚀火箭科普](https://hackmd.io/@Thect): 火箭和天文愛好者，將英文的相關資源翻譯統整後寫成科普文。
 
 ### 📬 聯絡方式
-- Email: [thect@thect.tw](mailto:thect@thect.tw) (我會盡量回信的!)
 - Twitter: [@Thect_36](https://twitter.com/Thect_36) (以其他領域的創作為主喔~)
 - IPoAC: [操作說明](https://zh.wikipedia.org/wiki/%E4%BB%A5%E9%B8%9F%E7%B1%BB%E4%B8%BA%E8%BD%BD%E4%BD%93%E7%9A%84%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE) 請在東北季風盛行的季節於七星山頂向南方飛鴿傳書，但是掉封包的機率很高，請一次多放幾隻，並用大一點的 SD 卡取代紙條作為封包載體，我會盡力接訊息的!
