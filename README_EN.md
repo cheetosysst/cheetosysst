@@ -12,10 +12,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&count_private=true&show_icons=true&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=61892f&hide_title=true&include_all_commits=true)   
 
 ### 🛠 Repo
-- [Demoji](https://github.com/cheetosysst/demoji):
-An emoji picker built for tiling window mangers like i3 and bspwm.
-- [EMU6502](https://github.com/cheetosysst/EMU6502):
-Attempt to write a 6502 emulator with python.
+
+- [Lowkey](https://github.com/cheetosysst/lowkey): Typing Test [demo](https://lowkey.thect.cc)
+- [Maraho](https://github.com/cheetosysst/maraho): Static Blog Generator [demo](https://maraho.thect.cc)
+- [Mikado](https://github.com/cheetosysst/mikado): Twitter-like social media (WIP)
 
 ### 🔨 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=86c232)](https://github.com/anuraghazra/github-readme-stats)
