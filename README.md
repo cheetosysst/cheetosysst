@@ -10,7 +10,7 @@
 - 其他稱呼: **Thect**、**Cheetosysst**
 - 興趣: 寫程式 (很顯然的)、寫歌、繪圖、翻譯
 - 學歷: 成功高中、**逢甲大學資工系** (在學)
-- 專長: **Python**、**NodeJS**、翻譯、撰寫文件
+- 專長: 前端、翻譯
 
 ### 🔗 紀錄
 ![Thect's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&count_private=true&show_icons=true&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=61892f&hide_title=true&include_all_commits=true)  
