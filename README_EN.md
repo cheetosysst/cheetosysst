@@ -4,9 +4,9 @@
 [![Tweeter_Followers](https://img.shields.io/twitter/follow/Thect_36?style=flat-square)](https://twitter.com/Thect_36)  
 - Name: 張 辰 (Chang, Chen)
 - Other name: **Thect**、**Cheetosysst**
-- Interests: Programming (Obviously), Song writing, Drawing, Translation
+- Interests: Programming (Obviously), Drawing, Translation
 - 學歷: Taipei Municipal Chenggong High School,Department of Information Engineering and Computer Science of Feng Chia University (Current)
-- 專長: **Python**, **NodeJS**, Translation, Document Writing
+- 專長: Frontend, Translation
 
 ### 🔗 Record
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&count_private=true&show_icons=true&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=61892f&hide_title=true&include_all_commits=true)   
