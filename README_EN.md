@@ -5,7 +5,9 @@
 - Name: 張 辰 (Chang, Chen)
 - Other name: **Thect**、**Cheetosysst**
 - Interests: Programming (Obviously), Drawing, Translation
-- 學歷: Taipei Municipal Chenggong High School,Department of Information Engineering and Computer Science of Feng Chia University (Current)
+- 學歷: 
+  - Taipei Municipal Chenggong High School
+  - Department of Information Engineering and Computer Science of Feng Chia University (Current)
 - 專長: Frontend, Translation
 
 ### 🔗 Record
