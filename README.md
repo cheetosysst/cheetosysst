@@ -19,7 +19,7 @@
 
 - [Lowkey](https://github.com/cheetosysst/lowkey): 打字練習網站 [demo](https://lowkey.thect.cc)
 - [Maraho](https://github.com/cheetosysst/maraho): 靜態部落格 [demo](https://maraho.thect.cc)
-- [Mikado](https://github.com/cheetosysst/mikado): 社群軟體 (WIP)
+- [Mikado](https://github.com/cheetosysst/arkhi): 島嶼架構前端框架
 
 ### 🔨 常用語言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=86c232)](https://github.com/anuraghazra/github-readme-stats)
