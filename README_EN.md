@@ -17,7 +17,7 @@
 
 - [Lowkey](https://github.com/cheetosysst/lowkey): Typing Test [demo](https://lowkey.thect.cc)
 - [Maraho](https://github.com/cheetosysst/maraho): Static Blog Generator [demo](https://maraho.thect.cc)
-- [Mikado](https://github.com/cheetosysst/arkhi): Islands Architecture based react frontend framework 
+- [Arkhi](https://github.com/cheetosysst/arkhi): Islands Architecture based react frontend framework 
 
 ### 🔨 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&layout=compact&hide=html&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=86c232)](https://github.com/anuraghazra/github-readme-stats)
