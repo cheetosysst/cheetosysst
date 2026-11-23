@@ -9,8 +9,9 @@
 - 本名: 張 辰
 - 其他稱呼: **Thect**、**Cheetosysst**
 - 興趣: 寫程式 (很顯然的)、寫歌、繪圖、翻譯
-- 學歷: 成功高中、**逢甲大學資工系** (在學)
-- 專長: 前端、翻譯
+- 學歷: 成功高中、逢甲大學資工系
+- 公司: 新加坡商鈦坦科技台灣分公司 產品開發者
+- 專長: 前端、後端、翻譯、Agentic Coding & Harness Engineering
 
 ### 🔗 紀錄
 ![Thect's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&count_private=true&show_icons=true&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=61892f&hide_title=true&include_all_commits=true)  
