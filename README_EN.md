@@ -5,10 +5,12 @@
 - Name: 張 辰 (Chang, Chen)
 - Other name: **Thect**、**Cheetosysst**
 - Interests: Programming (Obviously), Drawing, Translation
-- 學歷: 
+- Education: 
   - Taipei Municipal Chenggong High School
-  - Department of Information Engineering and Computer Science of Feng Chia University (Current)
-- 專長: Frontend
+  - Department of Information Engineering and Computer Science of Feng Chia University
+- Company:
+  - Titansoft PTE Ltd. Taiwan Branch. Product Developer
+- Profession: Frontend, Backend, Translation, Agentic Coding & Harness Engineering
 
 ### 🔗 Record
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cheetosysst&count_private=true&show_icons=true&bg_color=222629&icon_color=6b6e70&text_color=86c232&title_color=61892f&hide_title=true&include_all_commits=true)   
